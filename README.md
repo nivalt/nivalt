@@ -1,10 +1,10 @@
 # Hi there, I'm Niv👋 
 
-## I'm a Software Developer!
+## I'm a Software Engineer!
 
-- 🌱 I’m currently finishing my B.Sc in Computer Science
+- 🌱 Graduated B.Sc in Computer Science
 - 👯 I’m looking to collaborate with other developers 
-- 🥅 2023 Goals: Learn more about Generative AI
+- 🥅 2025 Goals: Build products using Generative AI
 - ⚡ Fun fact: I love to hike through beautiful trails, or simply immerse myself in the wonders of nature
 
 ### 🔗 &nbsp;**Connect with me**:
